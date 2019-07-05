@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "FractalImageMap.h"
 
 FractalImageMap::FractalImageMap(jdouble complexUnitXPerPixel, jdouble complexUnitYPerPixel, jcomplex top_left, jint width, jint height) :

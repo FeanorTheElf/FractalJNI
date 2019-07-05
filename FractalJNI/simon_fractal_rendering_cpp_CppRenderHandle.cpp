@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "simon_fractal_rendering_cpp_CppRenderHandle.h"
 #include "simon_fractal_rendering_cpp_CppRenderHandle.h"
 #include "AVXFractalRenderer.h"
 #include "Mandelbrot.h"
